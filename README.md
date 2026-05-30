@@ -1,4 +1,4 @@
-# Custom NFC Smart Card 💳⚡
+# Custom NFC Smart Card 
 
 Hey! Welcome to the hardware repo for my custom NFC Smart Card. This project contains all the design files, manufacturing schematics, and assembly spreadsheets needed to get this board printed and assembled.
 
