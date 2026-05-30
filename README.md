@@ -31,6 +31,7 @@ If you want to print this yourself, I highly recommend using JLCPCB. I've alread
 
 Enjoy!
 <br><br>
+<img width="825" height="708" alt="image" src="https://github.com/user-attachments/assets/8f0234c9-d843-4525-9fd6-34094a417191" />
 <img width="899" height="587" alt="Screenshot 2026-05-29 230642" src="https://github.com/user-attachments/assets/c15a5349-4ccb-479d-8750-e1b835baf60e" />
 <img width="876" height="568" alt="Screenshot 2026-05-29 230636" src="https://github.com/user-attachments/assets/418f47ee-5e04-492c-849b-2eea199304f2" />
 
