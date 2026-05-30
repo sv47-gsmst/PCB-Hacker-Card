@@ -30,6 +30,7 @@ If you want to print this yourself, I highly recommend using JLCPCB. I've alread
 6. *Note:* When the system matches the parts, it will throw a red error for the `25X48MM_NFC_ANTENNA`. Just click **"Do Not Place"**. The antenna is already drawn into the copper, so the robots don't need to place a physical part for it.
 
 Enjoy!
+<br><br>
 <img width="899" height="587" alt="Screenshot 2026-05-29 230642" src="https://github.com/user-attachments/assets/c15a5349-4ccb-479d-8750-e1b835baf60e" />
 <img width="876" height="568" alt="Screenshot 2026-05-29 230636" src="https://github.com/user-attachments/assets/418f47ee-5e04-492c-849b-2eea199304f2" />
 
