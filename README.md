@@ -35,7 +35,7 @@ My custom NFC smart card project. Has all the files to build and order the PCB.
 
 ---
 
-## Parts
+## Bill Of Materials
 * **NFC Chip:** [NT3H2111W0FHKH (C710403)](https://jlcpcb.com/partdetail/NxpSemicon-NT3H2111W0FHKH/C710403)
 * **Button:** [TS-1187A-B-A-B (C318884)](https://jlcpcb.com/partdetail/XkbConnectivity-TS_1187A_B_AB/C318884)
 * **Resistor:** [47Ω 0603 (C23182)](https://jlcpcb.com/partdetail/23909-0603WAF470JT5E/C23182)
